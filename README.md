@@ -255,3 +255,6 @@ Foster a more productive and balanced workplace.
 Converts raw HR data into actionable business intelligence.
 Demonstrates real-world application of Power BI, DAX, and Power Query.
 Reflects data analysis, visualization, and presentation skills crucial for business and analytics roles.
+
+![image alt](https://github.com/Rohitkr2002/Blood-Bank-Management-System/blob/9279c1a7728b78f42afd7e46452295dcb4535d7a/project-Output.png)
+
