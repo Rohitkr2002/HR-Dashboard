@@ -256,5 +256,7 @@ Converts raw HR data into actionable business intelligence.
 Demonstrates real-world application of Power BI, DAX, and Power Query.
 Reflects data analysis, visualization, and presentation skills crucial for business and analytics roles.
 
+GitHub Repository: https://github.com/Rohitkr2002/HR-Dashboard
+
 ![image alt](https://github.com/Rohitkr2002/HR-Dashboard/blob/main/Dashboard%20Image.png)
 
