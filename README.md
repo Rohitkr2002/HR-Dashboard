@@ -300,4 +300,10 @@ Reflects data analysis, visualization, and presentation skills crucial for busin
 
 GitHub Repository: https://github.com/Rohitkr2002/HR-Dashboard
 
+---
+
+<!-- Search Keywords -->
+**Tags:** `hr-dashboard` `power-bi` `data-analysis` `dax` `power-query` `hr-analytics` `attrition-analysis` `business-intelligence` `data-visualization` `excel` `sql` `python` `portfolio-project` `rohit-kumar-singh`
+
+
 ![image alt](https://github.com/Rohitkr2002/HR-Dashboard/blob/main/Dashboard%20Image.png)
