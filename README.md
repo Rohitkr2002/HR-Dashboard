@@ -258,29 +258,34 @@ The HR Dashboard follows a structured data analytics workflow that transforms ra
 │   HR_Analytics.csv  │
 │   (Raw HR Dataset)  │
 └──────────┬──────────┘
+           │
            ▼
 ┌─────────────────────┐
 │     Power Query     │
 │ Data Cleaning & ETL │
 └──────────┬──────────┘
+           │
            ▼
 ┌─────────────────────┐
 │   Data Modeling     │
 │ Relationships &     │
 │ Data Transformation │
 └──────────┬──────────┘
+           │
            ▼
 ┌─────────────────────┐
 │        DAX          │
 │ Custom Measures &   │
 │ KPI Calculations    │
 └──────────┬──────────┘
+           │
            ▼
 ┌─────────────────────┐
 │      Power BI       │
 │ Interactive Reports │
 │ & Visualizations    │
 └──────────┬──────────┘
+           │
            ▼
 ┌─────────────────────┐
 │ Business Insights & │
