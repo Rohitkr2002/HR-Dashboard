@@ -300,3 +300,4 @@ Reflects data analysis, visualization, and presentation skills crucial for busin
 
 GitHub Repository: https://github.com/Rohitkr2002/HR-Dashboard
 
+![image alt](https://github.com/Rohitkr2002/HR-Dashboard/blob/main/Dashboard%20Image.png)
